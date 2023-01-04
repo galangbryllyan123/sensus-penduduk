@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_n" value="name:nomor_laporan;datatype:int,name:tanggal;datatype:date,name:jumlah_penduduk;datatype:int,name:jumlah_pkp;datatype:int,name:keterangan;datatype:blob" />
+</info>

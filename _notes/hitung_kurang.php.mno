@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MMGuideColor" value="#00FF00" />
+	<infoitem key="MMGuideVisible" value="true" />
+	<infoitem key="MMGuideLocked" value="false" />
+	<infoitem key="MMSnapToGuide" value="true" />
+	<infoitem key="MMGuidesSnapToElements" value="true" />
+	<infoitem key="MMDistanceColor" value="#0000FF" />
+	<infoitem key="UD_pp" value="name:nomor;datatype:int,name:NIK;datatype:int,name:nama;datatype:string,name:tempat_lahir;datatype:string,name:tanggal_lahir;datatype:string,name:jenis_kelamin;datatype:string,name:alamat;datatype:string,name:agama;datatype:string,name:status_perkawinan;datatype:string,name:pekerjaan;datatype:string,name:kewarganegaraan;datatype:string" />
+	<infoitem key="MMGuideCount" value="1" />
+	<infoitem key="MMGuide0" value="horizontal: user 258 px" />
+</info>

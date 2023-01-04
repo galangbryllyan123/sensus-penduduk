@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_n" value="name:nomor;datatype:int,name:NSKD;datatype:int,name:NKK;datatype:int,name:kepala_keluarga;datatype:string,name:alamat_keluarga;datatype:blob,name:NIK;datatype:int,name:nama;datatype:string,name:tempat_lahir;datatype:string,name:tanggal_lahir;datatype:date,name:jenis_kelamin;datatype:string,name:agama;datatype:string,name:hubungan_keluarga;datatype:string,name:alasan_datang;datatype:string,name:alamat_tujuan;datatype:blob,name:klasifikasi_pindah;datatype:string" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_n" value="name:nomor;datatype:int,name:NIK;datatype:string,name:nama;datatype:string,name:tempat_lahir;datatype:string,name:tanggal_lahir;datatype:string,name:jenis_kelamin;datatype:string,name:alamat;datatype:string,name:agama;datatype:string,name:status_perkawinan;datatype:string,name:pekerjaan;datatype:string,name:kewarganegaraan;datatype:string,name:foto;datatype:string" />
+	<infoitem key="UD_L" value="name:nama;datatype:string,name:alamat;datatype:string,name:telepon;datatype:string,name:jenis_kelamin;datatype:string,name:email;datatype:string,name:username;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_A" value="name:nama;datatype:string,name:alamat;datatype:string,name:telepon;datatype:string,name:jenis_kelamin;datatype:string,name:email;datatype:string,name:username;datatype:string,name:password;datatype:string" />
+</info>

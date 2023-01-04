@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tabel" value="name:id;datatype:int,name:sensus;datatype:string,name:senin;datatype:int,name:selasa;datatype:int,name:rabu;datatype:int,name:kamis;datatype:int,name:jumat;datatype:int,name:sabtu;datatype:int" />
+</info>
